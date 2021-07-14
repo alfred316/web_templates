@@ -1,2 +1,4 @@
 # web_templates
-html5 and bootstrap5 templates
+Clone this repository and use the templates to customize your own portfolio and resume websites!
+
+These are built using bootstrap5 and html5 themes.
